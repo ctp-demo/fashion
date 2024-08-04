@@ -1,0 +1,1 @@
+import{u as t}from"./useDataStore-d37a8ed6.js";import"./app-99513220.js";import"./index-dca72a42.js";const _={__name:"TopHeader",setup(e){return t().setSetting("phone"),(o,s)=>null}};export{_ as default};

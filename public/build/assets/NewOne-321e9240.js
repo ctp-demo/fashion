@@ -1,0 +1,1 @@
+import{_ as e}from"./app-99513220.js";const i={};function o(a,t){return" Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cupiditate, dolore dolores dolorum iure laudantium necessitatibus nulla numquam officia quam ratione, ullam. Adipisci, doloribus numquam obcaecati optio recusandae rerum saepe! "}const u=e(i,[["render",o]]);export{u as default};
